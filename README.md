@@ -1,5 +1,4 @@
 # Waste-Managaement-system
-[6:57 PM, 1/9/2025] Ayan Bhattacherjee: WRITEisevo pin,0), WRITE 0 to serve pin
 
 CALL DELAY(delay, 100); DELAY Sor 100 microseconds
 
@@ -76,7 +75,7 @@ hihimpute Holding, hum, If tham and to reshmi
 iftenan higher thrustad) then
 
 END END RETURN END
-[6:58 PM, 1/9/2025] Ayan Bhattacherjee: WRITEisevo pin,0), WRITE 0 to serve pin
+ WRITEisevo pin,0), WRITE 0 to serve pin
 
 CALL DELAY(delay, 100); DELAY Sor 100 microseconds
 
@@ -153,7 +152,7 @@ hihimpute Holding, hum, If tham and to reshmi
 iftenan higher thrustad) then
 
 END END RETURN END
-[6:58 PM, 1/9/2025] Ayan Bhattacherjee: with the ESP8266
+ with the ESP8266
 
 FUNCTION setup()
 
